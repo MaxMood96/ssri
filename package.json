@@ -43,8 +43,8 @@
   },
   "devDependencies": {
     "standard": "^16.0.3",
-    "standard-version": "^9.1.0",
-    "tap": "^15.0.9"
+    "standard-version": "^9.5.0",
+    "tap": "^16.0.0"
   },
   "engines": {
     "node": ">= 8"
